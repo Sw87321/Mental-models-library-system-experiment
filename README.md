@@ -1,21 +1,18 @@
-# LibSys Experimental Materials – Milestone 3 Submission
-**Course:** Empirical Software Engineering  
-**Instructor:** Prof. Dr.-Ing. Janet Siegmund  
-**Institution:** TU Chemnitz, Winter Semester 2025/2026  
-**Authors:** Swarup Koirala & Ishan Raut
+# LibSys Experimental Materials – Milestone 3
+Authors: Ishan Raut & Swarup Koirala  
+Course: Empirical Software Engineering – Prof. Dr.-Ing. Janet Siegmund  
+TU Chemnitz, 2025/2026
 
-This repository contains the complete set of experimental materials used in our study: *"Measuring Developers' Mental Models in a Library Software System: A Foundation for Empirical Study"*.
+This repository contains all experimental materials used in our study on measuring developers’ mental models of a library software system.
 
-## Repository Contents
-- **`code/`** – The LibSys source code (Java) containing three injected defects and one missing feature for the maintenance task.
-- **`materials/concepts-list.txt`** – The 25 core concepts used for pairwise similarity ratings.
-- **`materials/task-instructions.md`** – Specific instructions for participants during Phase 1 (Ratings) and Phase 2 (Maintenance).
-- **`materials/similarity-rating-template.csv`** – The 25x25 matrix template for data collection.
-- **`materials/interview-guide.md`** – Semi-structured guide used to elicit tacit knowledge (RQ4).
-- **`materials/defects-description.md`** – Detailed documentation of the injected bugs (for grading and replication).
+## Contents
+- `code/` – LibSys source code (Java) with three injected defects and one missing feature
+- `materials/concepts-list.txt` – The 25 core concepts used for pairwise similarity ratings
+- `materials/task-instructions.md` – Instructions given to participants
+- `materials/similarity-rating-template.csv` – Blank template for similarity ratings
+- `materials/interview-guide.md` – Semi-structured interview questions
+- `materials/defects-description.md` – Detailed description of the three injected defects (for replication/grading only)
 
-## Experimental Overview
-This study replicates and extends the methodology of Balijepally et al. (2012, 2015) by measuring Task Mental Models (TMM) via Pathfinder networks to predict maintenance performance. 
+The study design, results, and analysis are described in the submitted final report.
 
-**Contact:** Swarup Koirala (Swarup.koirala@2024.tu-chemnitz.de)  
-Ishan Raut (Ishan.raut@2024.tu-chemnitz.de)
+Contact: ishan.raut@s2024.tu-chemnitz.de / swarup.koirala@s2024.tu-chemnitz.de
