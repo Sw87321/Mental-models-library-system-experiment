@@ -106,7 +106,7 @@ public class Loan
 
             days = days - Library.getInstance().book_return_deadline;
 
-            if(days>0)
+            if(days>=0)
                 totalFine = days * Library.getInstance().per_day_fine;
             else
                 totalFine=0;
